@@ -4,8 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This is a blogging website where i share things both technical and spiritual ideas under the penname of hedwig.
+Connect with me :
 
+[Linkedin](https://www.linkedin.com/in/hiteshkumar17/)
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[Website](https://hiteshhedwig.github.io)
