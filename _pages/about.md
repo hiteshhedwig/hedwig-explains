@@ -10,3 +10,5 @@ Connect with me :
 [Linkedin](https://www.linkedin.com/in/hiteshkumar17/)
 
 [Website](https://hiteshhedwig.github.io)
+
+[image](asset/image_me.png)
