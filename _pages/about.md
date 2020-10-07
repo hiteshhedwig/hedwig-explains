@@ -11,4 +11,4 @@ Connect with me :
 
 [Website](https://hiteshhedwig.github.io)
 
-[image](image_me.png)
+
